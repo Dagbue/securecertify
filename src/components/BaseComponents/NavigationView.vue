@@ -115,7 +115,7 @@
 <!--          </li>-->
 
 
-          <li class="link"><router-link  to="/requestView" class="auth">DEMO</router-link></li>
+<!--          <li class="link"><router-link  to="/requestView" class="auth">DEMO</router-link></li>-->
         </ul>
 
       </div>
@@ -313,7 +313,7 @@ export default {
   margin-top: 10px;
   cursor: pointer;
   transition: .8s ease all;
-  color: #000000;
+  color: hsla(0, 0%, 100%, 1.0);
 }
 .icon-active{
   transform: rotate(180deg);
@@ -466,7 +466,7 @@ i{
 
 .logo2{
   width: 70%;
-  background-color: #FFFFFF;
+  background-color: hsla(0, 0%, 100%, 1.0);
   padding: 3px 20px 3px 12px;
   margin-top: 3%;
   border-radius: 12px;
@@ -550,7 +550,7 @@ li {
 
 a {
   display: block;
-  color: #202020;
+  color: hsla(0, 0%, 100%, 1.0);
   text-align: center;
   padding: 14px 6px;
   text-decoration: none;
