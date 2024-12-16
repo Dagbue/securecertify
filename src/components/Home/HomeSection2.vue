@@ -405,6 +405,9 @@ input[type=file]::file-selector-button:hover {
 }
 
 @media (max-width: 500px) {
+  .last-img{
+    width: 9%;
+  }
 
 }
 </style>

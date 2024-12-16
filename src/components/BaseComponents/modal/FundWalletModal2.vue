@@ -217,14 +217,13 @@ button{
 @media (max-width: 500px) {
   dialog {
     top: 11vh;
-    width: 25rem;
-    height: 18rem;
-    left: calc(50% - 11rem);
-    right: 30px;
+    width: 100%;
+    height: 100%;
+    right: unset;
   }
   .alpha{
-    width: 360px;
-    height: 610px;
+    width: 100%;
+    height: 100%;
   }
   h3{
     font-size: 18px;
@@ -249,7 +248,7 @@ button{
   .text-3{
     font-size: 15px;
     line-height: 22px;
-    padding-top: 1%;
+    padding-top: 2%;
     padding-bottom: 1%;
   }
 
